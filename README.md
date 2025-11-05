@@ -6,6 +6,7 @@ Implementation of core Data Structures and Algorithms with examples of arrays, s
 ## Array
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/debugwithprakash/DSA-Practice/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/debugwithprakash/DSA-Practice/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
@@ -14,6 +15,7 @@ Implementation of core Data Structures and Algorithms with examples of arrays, s
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/debugwithprakash/DSA-Practice/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/debugwithprakash/DSA-Practice/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -27,4 +29,8 @@ Implementation of core Data Structures and Algorithms with examples of arrays, s
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/debugwithprakash/DSA-Practice/tree/master/0268-missing-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/debugwithprakash/DSA-Practice/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
