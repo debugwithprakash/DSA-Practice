@@ -16,7 +16,7 @@ class Solution
         int n = nums.length;
         if(n == 0) return;
         if( n == 1) return;
-        if(k > n) k = k % n;
+        k = k % n;
         swap(nums, 0, n-1);
         swap(nums, 0, k-1);
         swap(nums, k, n-1);
