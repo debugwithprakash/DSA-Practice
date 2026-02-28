@@ -6,6 +6,7 @@ Implementation of core Data Structures and Algorithms with examples of arrays, s
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/debugwithprakash/DSA-Practice/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/debugwithprakash/DSA-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/debugwithprakash/DSA-Practice/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/debugwithprakash/DSA-Practice/tree/master/0189-rotate-array) |
@@ -16,6 +17,7 @@ Implementation of core Data Structures and Algorithms with examples of arrays, s
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/debugwithprakash/DSA-Practice/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/debugwithprakash/DSA-Practice/tree/master/0268-missing-number) |
 ## Math
 |  |
