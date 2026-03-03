@@ -13,6 +13,7 @@ Implementation of core Data Structures and Algorithms with examples of arrays, s
 | [0240-search-a-2d-matrix-ii](https://github.com/debugwithprakash/DSA-Practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/debugwithprakash/DSA-Practice/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/debugwithprakash/DSA-Practice/tree/master/0283-move-zeroes) |
+| [0704-binary-search](https://github.com/debugwithprakash/DSA-Practice/tree/master/0704-binary-search) |
 | [1646-kth-missing-positive-number](https://github.com/debugwithprakash/DSA-Practice/tree/master/1646-kth-missing-positive-number) |
 ## Hash Table
 |  |
@@ -31,6 +32,7 @@ Implementation of core Data Structures and Algorithms with examples of arrays, s
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/debugwithprakash/DSA-Practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/debugwithprakash/DSA-Practice/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/debugwithprakash/DSA-Practice/tree/master/0704-binary-search) |
 | [1646-kth-missing-positive-number](https://github.com/debugwithprakash/DSA-Practice/tree/master/1646-kth-missing-positive-number) |
 ## Bit Manipulation
 |  |
