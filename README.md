@@ -16,6 +16,7 @@ Implementation of core Data Structures and Algorithms with examples of arrays, s
 | [0704-binary-search](https://github.com/debugwithprakash/DSA-Practice/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/debugwithprakash/DSA-Practice/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1646-kth-missing-positive-number](https://github.com/debugwithprakash/DSA-Practice/tree/master/1646-kth-missing-positive-number) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/debugwithprakash/DSA-Practice/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Hash Table
 |  |
 | ------- |
@@ -36,6 +37,7 @@ Implementation of core Data Structures and Algorithms with examples of arrays, s
 | [0704-binary-search](https://github.com/debugwithprakash/DSA-Practice/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/debugwithprakash/DSA-Practice/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1646-kth-missing-positive-number](https://github.com/debugwithprakash/DSA-Practice/tree/master/1646-kth-missing-positive-number) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/debugwithprakash/DSA-Practice/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -70,4 +72,8 @@ Implementation of core Data Structures and Algorithms with examples of arrays, s
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/debugwithprakash/DSA-Practice/tree/master/1013-fibonacci-number) |
+## Counting
+|  |
+| ------- |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/debugwithprakash/DSA-Practice/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 <!---LeetCode Topics End-->
