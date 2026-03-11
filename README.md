@@ -9,6 +9,7 @@ Implementation of core Data Structures and Algorithms with examples of arrays, s
 | [0001-two-sum](https://github.com/debugwithprakash/DSA-Practice/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/debugwithprakash/DSA-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/debugwithprakash/DSA-Practice/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/debugwithprakash/DSA-Practice/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/debugwithprakash/DSA-Practice/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/debugwithprakash/DSA-Practice/tree/master/0074-search-a-2d-matrix) |
 | [0118-pascals-triangle](https://github.com/debugwithprakash/DSA-Practice/tree/master/0118-pascals-triangle) |
@@ -70,6 +71,7 @@ Implementation of core Data Structures and Algorithms with examples of arrays, s
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/debugwithprakash/DSA-Practice/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/debugwithprakash/DSA-Practice/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/debugwithprakash/DSA-Practice/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/debugwithprakash/DSA-Practice/tree/master/0240-search-a-2d-matrix-ii) |
 ## Dynamic Programming
@@ -90,4 +92,8 @@ Implementation of core Data Structures and Algorithms with examples of arrays, s
 |  |
 | ------- |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/debugwithprakash/DSA-Practice/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/debugwithprakash/DSA-Practice/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
