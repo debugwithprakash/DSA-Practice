@@ -19,6 +19,7 @@ Implementation of core Data Structures and Algorithms with examples of arrays, s
 | [0268-missing-number](https://github.com/debugwithprakash/DSA-Practice/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/debugwithprakash/DSA-Practice/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/debugwithprakash/DSA-Practice/tree/master/0303-range-sum-query-immutable) |
+| [0560-subarray-sum-equals-k](https://github.com/debugwithprakash/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/debugwithprakash/DSA-Practice/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/debugwithprakash/DSA-Practice/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1539-kth-missing-positive-number](https://github.com/debugwithprakash/DSA-Practice/tree/master/1539-kth-missing-positive-number) |
@@ -29,6 +30,7 @@ Implementation of core Data Structures and Algorithms with examples of arrays, s
 | ------- |
 | [0001-two-sum](https://github.com/debugwithprakash/DSA-Practice/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/debugwithprakash/DSA-Practice/tree/master/0268-missing-number) |
+| [0560-subarray-sum-equals-k](https://github.com/debugwithprakash/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 ## Math
 |  |
 | ------- |
@@ -110,4 +112,5 @@ Implementation of core Data Structures and Algorithms with examples of arrays, s
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/debugwithprakash/DSA-Practice/tree/master/0303-range-sum-query-immutable) |
+| [0560-subarray-sum-equals-k](https://github.com/debugwithprakash/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
