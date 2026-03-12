@@ -9,6 +9,7 @@ Implementation of core Data Structures and Algorithms with examples of arrays, s
 | [0001-two-sum](https://github.com/debugwithprakash/DSA-Practice/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/debugwithprakash/DSA-Practice/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/debugwithprakash/DSA-Practice/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/debugwithprakash/DSA-Practice/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/debugwithprakash/DSA-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/debugwithprakash/DSA-Practice/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/debugwithprakash/DSA-Practice/tree/master/0054-spiral-matrix) |
@@ -65,12 +66,14 @@ Implementation of core Data Structures and Algorithms with examples of arrays, s
 | ------- |
 | [0015-3sum](https://github.com/debugwithprakash/DSA-Practice/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/debugwithprakash/DSA-Practice/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/debugwithprakash/DSA-Practice/tree/master/0018-4sum) |
 | [0268-missing-number](https://github.com/debugwithprakash/DSA-Practice/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
 | [0015-3sum](https://github.com/debugwithprakash/DSA-Practice/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/debugwithprakash/DSA-Practice/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/debugwithprakash/DSA-Practice/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/debugwithprakash/DSA-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/debugwithprakash/DSA-Practice/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/debugwithprakash/DSA-Practice/tree/master/0189-rotate-array) |
