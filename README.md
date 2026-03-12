@@ -15,6 +15,7 @@ Implementation of core Data Structures and Algorithms with examples of arrays, s
 | [0118-pascals-triangle](https://github.com/debugwithprakash/DSA-Practice/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/debugwithprakash/DSA-Practice/tree/master/0119-pascals-triangle-ii) |
 | [0189-rotate-array](https://github.com/debugwithprakash/DSA-Practice/tree/master/0189-rotate-array) |
+| [0238-product-of-array-except-self](https://github.com/debugwithprakash/DSA-Practice/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/debugwithprakash/DSA-Practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/debugwithprakash/DSA-Practice/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/debugwithprakash/DSA-Practice/tree/master/0283-move-zeroes) |
@@ -111,6 +112,7 @@ Implementation of core Data Structures and Algorithms with examples of arrays, s
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/debugwithprakash/DSA-Practice/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/debugwithprakash/DSA-Practice/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/debugwithprakash/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
