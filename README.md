@@ -116,6 +116,7 @@ Implementation of core Data Structures and Algorithms with examples of arrays, s
 | ------- |
 | [0125-valid-palindrome](https://github.com/debugwithprakash/DSA-Practice/tree/master/0125-valid-palindrome) |
 | [0520-detect-capital](https://github.com/debugwithprakash/DSA-Practice/tree/master/0520-detect-capital) |
+| [0709-to-lower-case](https://github.com/debugwithprakash/DSA-Practice/tree/master/0709-to-lower-case) |
 ## Design
 |  |
 | ------- |
