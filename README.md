@@ -83,6 +83,7 @@ Implementation of core Data Structures and Algorithms with examples of arrays, s
 | [0151-reverse-words-in-a-string](https://github.com/debugwithprakash/DSA-Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/debugwithprakash/DSA-Practice/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/debugwithprakash/DSA-Practice/tree/master/0283-move-zeroes) |
+| [0443-string-compression](https://github.com/debugwithprakash/DSA-Practice/tree/master/0443-string-compression) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -125,6 +126,7 @@ Implementation of core Data Structures and Algorithms with examples of arrays, s
 | [0151-reverse-words-in-a-string](https://github.com/debugwithprakash/DSA-Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/debugwithprakash/DSA-Practice/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/debugwithprakash/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
+| [0443-string-compression](https://github.com/debugwithprakash/DSA-Practice/tree/master/0443-string-compression) |
 | [0520-detect-capital](https://github.com/debugwithprakash/DSA-Practice/tree/master/0520-detect-capital) |
 | [0709-to-lower-case](https://github.com/debugwithprakash/DSA-Practice/tree/master/0709-to-lower-case) |
 ## Design
