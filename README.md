@@ -47,6 +47,7 @@ Implementation of core Data Structures and Algorithms with examples of arrays, s
 | [0069-sqrtx](https://github.com/debugwithprakash/DSA-Practice/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/debugwithprakash/DSA-Practice/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/debugwithprakash/DSA-Practice/tree/master/0268-missing-number) |
+| [0441-arranging-coins](https://github.com/debugwithprakash/DSA-Practice/tree/master/0441-arranging-coins) |
 | [1013-fibonacci-number](https://github.com/debugwithprakash/DSA-Practice/tree/master/1013-fibonacci-number) |
 ## Binary Search
 |  |
@@ -55,6 +56,7 @@ Implementation of core Data Structures and Algorithms with examples of arrays, s
 | [0074-search-a-2d-matrix](https://github.com/debugwithprakash/DSA-Practice/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/debugwithprakash/DSA-Practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/debugwithprakash/DSA-Practice/tree/master/0268-missing-number) |
+| [0441-arranging-coins](https://github.com/debugwithprakash/DSA-Practice/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/debugwithprakash/DSA-Practice/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/debugwithprakash/DSA-Practice/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1539-kth-missing-positive-number](https://github.com/debugwithprakash/DSA-Practice/tree/master/1539-kth-missing-positive-number) |
