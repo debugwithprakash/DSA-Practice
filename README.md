@@ -104,6 +104,7 @@ Implementation of core Data Structures and Algorithms with examples of arrays, s
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/debugwithprakash/DSA-Practice/tree/master/0022-generate-parentheses) |
 | [0118-pascals-triangle](https://github.com/debugwithprakash/DSA-Practice/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/debugwithprakash/DSA-Practice/tree/master/0119-pascals-triangle-ii) |
 | [1013-fibonacci-number](https://github.com/debugwithprakash/DSA-Practice/tree/master/1013-fibonacci-number) |
@@ -129,6 +130,7 @@ Implementation of core Data Structures and Algorithms with examples of arrays, s
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/debugwithprakash/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0022-generate-parentheses](https://github.com/debugwithprakash/DSA-Practice/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/debugwithprakash/DSA-Practice/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/debugwithprakash/DSA-Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/debugwithprakash/DSA-Practice/tree/master/0242-valid-anagram) |
@@ -155,4 +157,8 @@ Implementation of core Data Structures and Algorithms with examples of arrays, s
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/debugwithprakash/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/debugwithprakash/DSA-Practice/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
