@@ -131,6 +131,7 @@ Implementation of core Data Structures and Algorithms with examples of arrays, s
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/debugwithprakash/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0022-generate-parentheses](https://github.com/debugwithprakash/DSA-Practice/tree/master/0022-generate-parentheses) |
+| [0038-count-and-say](https://github.com/debugwithprakash/DSA-Practice/tree/master/0038-count-and-say) |
 | [0125-valid-palindrome](https://github.com/debugwithprakash/DSA-Practice/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/debugwithprakash/DSA-Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/debugwithprakash/DSA-Practice/tree/master/0242-valid-anagram) |
