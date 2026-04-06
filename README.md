@@ -24,6 +24,7 @@ Implementation of core Data Structures and Algorithms with examples of arrays, s
 | [0268-missing-number](https://github.com/debugwithprakash/DSA-Practice/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/debugwithprakash/DSA-Practice/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/debugwithprakash/DSA-Practice/tree/master/0303-range-sum-query-immutable) |
+| [0493-reverse-pairs](https://github.com/debugwithprakash/DSA-Practice/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/debugwithprakash/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/debugwithprakash/DSA-Practice/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/debugwithprakash/DSA-Practice/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -60,6 +61,7 @@ Implementation of core Data Structures and Algorithms with examples of arrays, s
 | [0240-search-a-2d-matrix-ii](https://github.com/debugwithprakash/DSA-Practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/debugwithprakash/DSA-Practice/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/debugwithprakash/DSA-Practice/tree/master/0441-arranging-coins) |
+| [0493-reverse-pairs](https://github.com/debugwithprakash/DSA-Practice/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/debugwithprakash/DSA-Practice/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/debugwithprakash/DSA-Practice/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1539-kth-missing-positive-number](https://github.com/debugwithprakash/DSA-Practice/tree/master/1539-kth-missing-positive-number) |
@@ -93,6 +95,7 @@ Implementation of core Data Structures and Algorithms with examples of arrays, s
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/debugwithprakash/DSA-Practice/tree/master/0240-search-a-2d-matrix-ii) |
+| [0493-reverse-pairs](https://github.com/debugwithprakash/DSA-Practice/tree/master/0493-reverse-pairs) |
 ## Matrix
 |  |
 | ------- |
@@ -162,4 +165,20 @@ Implementation of core Data Structures and Algorithms with examples of arrays, s
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/debugwithprakash/DSA-Practice/tree/master/0022-generate-parentheses) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/debugwithprakash/DSA-Practice/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/debugwithprakash/DSA-Practice/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/debugwithprakash/DSA-Practice/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/debugwithprakash/DSA-Practice/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
