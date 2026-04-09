@@ -1,33 +1,30 @@
-class Solution 
-{
-    public List<Integer> spiralOrder(int[][] matrix) 
-    {
+class Solution {
+    public List<Integer> spiralOrder(int[][] matrix) {
         List<Integer> ans = new ArrayList<>();
-        int m = matrix.length, n = matrix[0].length;
-        int sr = 0, er = m-1, sc = 0, ec = n-1;
+        int m = matrix.length;
+        int n = matrix[0].length;
         int count = 0;
-        while(count < m*n)
-        {
-            for(int i = sc; i <= ec && count < m*n; i++)
-            {
+        int sr = 0, lr = matrix.length-1, sc = 0, lc = matrix[0].length-1;
+        while(count < m*n) {
+            for(int i = sc; i <= lc; i++) {
                 ans.add(matrix[sr][i]);
                 count++;
             }
             sr++;
-            for(int i = sr; i <= er && count < m*n; i++)
-            {
-                ans.add(matrix[i][ec]);
+            if(count == m*n) break;
+            for(int i = sr; i <= lr; i++) {
+                ans.add(matrix[i][lc]);
                 count++;
             }
-            ec--;
-            for(int i = ec; i >= sc && count < m*n; i--)
-            {
-                ans.add(matrix[er][i]);
+            lc--;
+            if(count == m*n) break;
+            for(int i = lc; i >= sc; i--) {
+                ans.add(matrix[lr][i]);
                 count++;
             }
-            er--;
-            for(int i = er; i >= sr && count < m*n; i--)
-            {
+            lr--;
+            if(count == m*n) break;
+            for(int i = lr; i >= sr; i--) {
                 ans.add(matrix[i][sc]);
                 count++;
             }
