@@ -28,6 +28,7 @@ Implementation of core Data Structures and Algorithms with examples of arrays, s
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/debugwithprakash/DSA-Practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0493-reverse-pairs](https://github.com/debugwithprakash/DSA-Practice/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/debugwithprakash/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
+| [0645-set-mismatch](https://github.com/debugwithprakash/DSA-Practice/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/debugwithprakash/DSA-Practice/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/debugwithprakash/DSA-Practice/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/debugwithprakash/DSA-Practice/tree/master/0867-transpose-matrix) |
@@ -45,6 +46,7 @@ Implementation of core Data Structures and Algorithms with examples of arrays, s
 | [0387-first-unique-character-in-a-string](https://github.com/debugwithprakash/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/debugwithprakash/DSA-Practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/debugwithprakash/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
+| [0645-set-mismatch](https://github.com/debugwithprakash/DSA-Practice/tree/master/0645-set-mismatch) |
 ## Math
 |  |
 | ------- |
@@ -76,6 +78,7 @@ Implementation of core Data Structures and Algorithms with examples of arrays, s
 | ------- |
 | [0268-missing-number](https://github.com/debugwithprakash/DSA-Practice/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/debugwithprakash/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
+| [0645-set-mismatch](https://github.com/debugwithprakash/DSA-Practice/tree/master/0645-set-mismatch) |
 ## Sorting
 |  |
 | ------- |
@@ -84,6 +87,7 @@ Implementation of core Data Structures and Algorithms with examples of arrays, s
 | [0018-4sum](https://github.com/debugwithprakash/DSA-Practice/tree/master/0018-4sum) |
 | [0242-valid-anagram](https://github.com/debugwithprakash/DSA-Practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/debugwithprakash/DSA-Practice/tree/master/0268-missing-number) |
+| [0645-set-mismatch](https://github.com/debugwithprakash/DSA-Practice/tree/master/0645-set-mismatch) |
 ## Two Pointers
 |  |
 | ------- |
