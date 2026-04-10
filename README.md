@@ -25,6 +25,7 @@ Implementation of core Data Structures and Algorithms with examples of arrays, s
 | [0283-move-zeroes](https://github.com/debugwithprakash/DSA-Practice/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/debugwithprakash/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/debugwithprakash/DSA-Practice/tree/master/0303-range-sum-query-immutable) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/debugwithprakash/DSA-Practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0493-reverse-pairs](https://github.com/debugwithprakash/DSA-Practice/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/debugwithprakash/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/debugwithprakash/DSA-Practice/tree/master/0704-binary-search) |
@@ -42,6 +43,7 @@ Implementation of core Data Structures and Algorithms with examples of arrays, s
 | [0242-valid-anagram](https://github.com/debugwithprakash/DSA-Practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/debugwithprakash/DSA-Practice/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/debugwithprakash/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/debugwithprakash/DSA-Practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/debugwithprakash/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 ## Math
 |  |
