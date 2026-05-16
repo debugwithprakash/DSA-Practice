@@ -11,6 +11,7 @@ Implementation of core Data Structures and Algorithms with examples of arrays, s
 | [0016-3sum-closest](https://github.com/debugwithprakash/DSA-Practice/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/debugwithprakash/DSA-Practice/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/debugwithprakash/DSA-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/debugwithprakash/DSA-Practice/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/debugwithprakash/DSA-Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0041-first-missing-positive](https://github.com/debugwithprakash/DSA-Practice/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/debugwithprakash/DSA-Practice/tree/master/0048-rotate-image) |
@@ -99,6 +100,7 @@ Implementation of core Data Structures and Algorithms with examples of arrays, s
 | [0016-3sum-closest](https://github.com/debugwithprakash/DSA-Practice/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/debugwithprakash/DSA-Practice/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/debugwithprakash/DSA-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/debugwithprakash/DSA-Practice/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/debugwithprakash/DSA-Practice/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/debugwithprakash/DSA-Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/debugwithprakash/DSA-Practice/tree/master/0189-rotate-array) |
