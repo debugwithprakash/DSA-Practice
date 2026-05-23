@@ -199,4 +199,8 @@ Implementation of core Data Structures and Algorithms with examples of arrays, s
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/debugwithprakash/DSA-Practice/tree/master/0493-reverse-pairs) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/debugwithprakash/DSA-Practice/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
