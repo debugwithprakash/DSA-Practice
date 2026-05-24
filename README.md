@@ -100,6 +100,7 @@ Implementation of core Data Structures and Algorithms with examples of arrays, s
 | [0015-3sum](https://github.com/debugwithprakash/DSA-Practice/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/debugwithprakash/DSA-Practice/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/debugwithprakash/DSA-Practice/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/debugwithprakash/DSA-Practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/debugwithprakash/DSA-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/debugwithprakash/DSA-Practice/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/debugwithprakash/DSA-Practice/tree/master/0125-valid-palindrome) |
@@ -204,6 +205,7 @@ Implementation of core Data Structures and Algorithms with examples of arrays, s
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/debugwithprakash/DSA-Practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/debugwithprakash/DSA-Practice/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/debugwithprakash/DSA-Practice/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/debugwithprakash/DSA-Practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
