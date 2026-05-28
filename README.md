@@ -147,6 +147,7 @@ Implementation of core Data Structures and Algorithms with examples of arrays, s
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/debugwithprakash/DSA-Practice/tree/master/0021-merge-two-sorted-lists) |
 | [1013-fibonacci-number](https://github.com/debugwithprakash/DSA-Practice/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -220,6 +221,7 @@ Implementation of core Data Structures and Algorithms with examples of arrays, s
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/debugwithprakash/DSA-Practice/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0021-merge-two-sorted-lists](https://github.com/debugwithprakash/DSA-Practice/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/debugwithprakash/DSA-Practice/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/debugwithprakash/DSA-Practice/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/debugwithprakash/DSA-Practice/tree/master/0083-remove-duplicates-from-sorted-list) |
