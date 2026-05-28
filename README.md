@@ -39,6 +39,7 @@ Implementation of core Data Structures and Algorithms with examples of arrays, s
 | [1480-running-sum-of-1d-array](https://github.com/debugwithprakash/DSA-Practice/tree/master/1480-running-sum-of-1d-array) |
 | [1539-kth-missing-positive-number](https://github.com/debugwithprakash/DSA-Practice/tree/master/1539-kth-missing-positive-number) |
 | [1646-kth-missing-positive-number](https://github.com/debugwithprakash/DSA-Practice/tree/master/1646-kth-missing-positive-number) |
+| [2326-spiral-matrix-iv](https://github.com/debugwithprakash/DSA-Practice/tree/master/2326-spiral-matrix-iv) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/debugwithprakash/DSA-Practice/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Hash Table
 |  |
@@ -134,6 +135,7 @@ Implementation of core Data Structures and Algorithms with examples of arrays, s
 | [0074-search-a-2d-matrix](https://github.com/debugwithprakash/DSA-Practice/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/debugwithprakash/DSA-Practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/debugwithprakash/DSA-Practice/tree/master/0867-transpose-matrix) |
+| [2326-spiral-matrix-iv](https://github.com/debugwithprakash/DSA-Practice/tree/master/2326-spiral-matrix-iv) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -160,6 +162,7 @@ Implementation of core Data Structures and Algorithms with examples of arrays, s
 | ------- |
 | [0054-spiral-matrix](https://github.com/debugwithprakash/DSA-Practice/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/debugwithprakash/DSA-Practice/tree/master/0867-transpose-matrix) |
+| [2326-spiral-matrix-iv](https://github.com/debugwithprakash/DSA-Practice/tree/master/2326-spiral-matrix-iv) |
 ## String
 |  |
 | ------- |
@@ -227,4 +230,5 @@ Implementation of core Data Structures and Algorithms with examples of arrays, s
 | [0876-middle-of-the-linked-list](https://github.com/debugwithprakash/DSA-Practice/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/debugwithprakash/DSA-Practice/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/debugwithprakash/DSA-Practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2326-spiral-matrix-iv](https://github.com/debugwithprakash/DSA-Practice/tree/master/2326-spiral-matrix-iv) |
 <!---LeetCode Topics End-->
