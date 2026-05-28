@@ -110,6 +110,7 @@ Implementation of core Data Structures and Algorithms with examples of arrays, s
 | [0031-next-permutation](https://github.com/debugwithprakash/DSA-Practice/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/debugwithprakash/DSA-Practice/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/debugwithprakash/DSA-Practice/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0086-partition-list](https://github.com/debugwithprakash/DSA-Practice/tree/master/0086-partition-list) |
 | [0125-valid-palindrome](https://github.com/debugwithprakash/DSA-Practice/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/debugwithprakash/DSA-Practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/debugwithprakash/DSA-Practice/tree/master/0142-linked-list-cycle-ii) |
@@ -229,6 +230,7 @@ Implementation of core Data Structures and Algorithms with examples of arrays, s
 | [0061-rotate-list](https://github.com/debugwithprakash/DSA-Practice/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/debugwithprakash/DSA-Practice/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/debugwithprakash/DSA-Practice/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0086-partition-list](https://github.com/debugwithprakash/DSA-Practice/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/debugwithprakash/DSA-Practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/debugwithprakash/DSA-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/debugwithprakash/DSA-Practice/tree/master/0148-sort-list) |
