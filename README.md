@@ -165,6 +165,7 @@ Implementation of core Data Structures and Algorithms with examples of arrays, s
 | [0206-reverse-linked-list](https://github.com/debugwithprakash/DSA-Practice/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/debugwithprakash/DSA-Practice/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/debugwithprakash/DSA-Practice/tree/master/1013-fibonacci-number) |
+| [2487-remove-nodes-from-linked-list](https://github.com/debugwithprakash/DSA-Practice/tree/master/2487-remove-nodes-from-linked-list) |
 ## Memoization
 |  |
 | ------- |
@@ -268,6 +269,7 @@ Implementation of core Data Structures and Algorithms with examples of arrays, s
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/debugwithprakash/DSA-Practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/debugwithprakash/DSA-Practice/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2326-spiral-matrix-iv](https://github.com/debugwithprakash/DSA-Practice/tree/master/2326-spiral-matrix-iv) |
+| [2487-remove-nodes-from-linked-list](https://github.com/debugwithprakash/DSA-Practice/tree/master/2487-remove-nodes-from-linked-list) |
 ## Stack
 |  |
 | ------- |
@@ -277,6 +279,7 @@ Implementation of core Data Structures and Algorithms with examples of arrays, s
 | [0682-baseball-game](https://github.com/debugwithprakash/DSA-Practice/tree/master/0682-baseball-game) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/debugwithprakash/DSA-Practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/debugwithprakash/DSA-Practice/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/debugwithprakash/DSA-Practice/tree/master/2487-remove-nodes-from-linked-list) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -289,4 +292,8 @@ Implementation of core Data Structures and Algorithms with examples of arrays, s
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/debugwithprakash/DSA-Practice/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [2487-remove-nodes-from-linked-list](https://github.com/debugwithprakash/DSA-Practice/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
