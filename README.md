@@ -194,6 +194,7 @@ Implementation of core Data Structures and Algorithms with examples of arrays, s
 | [0443-string-compression](https://github.com/debugwithprakash/DSA-Practice/tree/master/0443-string-compression) |
 | [0520-detect-capital](https://github.com/debugwithprakash/DSA-Practice/tree/master/0520-detect-capital) |
 | [0709-to-lower-case](https://github.com/debugwithprakash/DSA-Practice/tree/master/0709-to-lower-case) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/debugwithprakash/DSA-Practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Design
 |  |
 | ------- |
@@ -271,6 +272,7 @@ Implementation of core Data Structures and Algorithms with examples of arrays, s
 | [0020-valid-parentheses](https://github.com/debugwithprakash/DSA-Practice/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/debugwithprakash/DSA-Practice/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/debugwithprakash/DSA-Practice/tree/master/0234-palindrome-linked-list) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/debugwithprakash/DSA-Practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/debugwithprakash/DSA-Practice/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Heap (Priority Queue)
 |  |
