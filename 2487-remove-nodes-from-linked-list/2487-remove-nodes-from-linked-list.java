@@ -25,19 +25,14 @@ class Solution {
                 temp = temp.next;
             }
         }
-        
-        Stack<ListNode> newSt = new Stack<>();
+
+        temp = null;
         while(!st.isEmpty()) {
-            newSt.push(st.pop());
+            ListNode curr = st.pop();
+            curr.next = temp;
+            temp = curr;
         }
 
-        ListNode dummy = new ListNode(-1);
-        temp = dummy;
-        while(!newSt.isEmpty()) {
-            temp.next = newSt.pop();
-            temp = temp.next;
-        }
-
-        return dummy.next;
+        return temp;
     }
 }
