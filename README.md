@@ -31,6 +31,7 @@ Implementation of core Data Structures and Algorithms with examples of arrays, s
 | [0303-range-sum-query-immutable](https://github.com/debugwithprakash/DSA-Practice/tree/master/0303-range-sum-query-immutable) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/debugwithprakash/DSA-Practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0493-reverse-pairs](https://github.com/debugwithprakash/DSA-Practice/tree/master/0493-reverse-pairs) |
+| [0503-next-greater-element-ii](https://github.com/debugwithprakash/DSA-Practice/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/debugwithprakash/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/debugwithprakash/DSA-Practice/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/debugwithprakash/DSA-Practice/tree/master/0682-baseball-game) |
@@ -276,6 +277,7 @@ Implementation of core Data Structures and Algorithms with examples of arrays, s
 | [0020-valid-parentheses](https://github.com/debugwithprakash/DSA-Practice/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/debugwithprakash/DSA-Practice/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/debugwithprakash/DSA-Practice/tree/master/0234-palindrome-linked-list) |
+| [0503-next-greater-element-ii](https://github.com/debugwithprakash/DSA-Practice/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/debugwithprakash/DSA-Practice/tree/master/0682-baseball-game) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/debugwithprakash/DSA-Practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/debugwithprakash/DSA-Practice/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -295,5 +297,6 @@ Implementation of core Data Structures and Algorithms with examples of arrays, s
 ## Monotonic Stack
 |  |
 | ------- |
+| [0503-next-greater-element-ii](https://github.com/debugwithprakash/DSA-Practice/tree/master/0503-next-greater-element-ii) |
 | [2487-remove-nodes-from-linked-list](https://github.com/debugwithprakash/DSA-Practice/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
