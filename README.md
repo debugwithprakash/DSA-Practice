@@ -183,6 +183,7 @@ Implementation of core Data Structures and Algorithms with examples of arrays, s
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/debugwithprakash/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/debugwithprakash/DSA-Practice/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/debugwithprakash/DSA-Practice/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/debugwithprakash/DSA-Practice/tree/master/0038-count-and-say) |
 | [0125-valid-palindrome](https://github.com/debugwithprakash/DSA-Practice/tree/master/0125-valid-palindrome) |
@@ -267,6 +268,7 @@ Implementation of core Data Structures and Algorithms with examples of arrays, s
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/debugwithprakash/DSA-Practice/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/debugwithprakash/DSA-Practice/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/debugwithprakash/DSA-Practice/tree/master/0234-palindrome-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/debugwithprakash/DSA-Practice/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
