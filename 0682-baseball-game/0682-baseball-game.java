@@ -4,9 +4,8 @@ class Solution {
         for(int i = 0; i < operations.length; i++) {
             if(operations[i].equals("+")) {
                 int pre = st.pop();
-                int preOfPre = st.pop();
+                int preOfPre = st.peek();
                 int num = pre+preOfPre;
-                st.push(preOfPre);
                 st.push(pre);
                 st.push(num);
             }
