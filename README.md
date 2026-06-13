@@ -20,6 +20,7 @@ Implementation of core Data Structures and Algorithms with examples of arrays, s
 | [0066-plus-one](https://github.com/debugwithprakash/DSA-Practice/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/debugwithprakash/DSA-Practice/tree/master/0074-search-a-2d-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/debugwithprakash/DSA-Practice/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/debugwithprakash/DSA-Practice/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/debugwithprakash/DSA-Practice/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/debugwithprakash/DSA-Practice/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/debugwithprakash/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -146,6 +147,7 @@ Implementation of core Data Structures and Algorithms with examples of arrays, s
 | [0048-rotate-image](https://github.com/debugwithprakash/DSA-Practice/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/debugwithprakash/DSA-Practice/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/debugwithprakash/DSA-Practice/tree/master/0074-search-a-2d-matrix) |
+| [0085-maximal-rectangle](https://github.com/debugwithprakash/DSA-Practice/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/debugwithprakash/DSA-Practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/debugwithprakash/DSA-Practice/tree/master/0867-transpose-matrix) |
 | [2326-spiral-matrix-iv](https://github.com/debugwithprakash/DSA-Practice/tree/master/2326-spiral-matrix-iv) |
@@ -153,6 +155,7 @@ Implementation of core Data Structures and Algorithms with examples of arrays, s
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/debugwithprakash/DSA-Practice/tree/master/0022-generate-parentheses) |
+| [0085-maximal-rectangle](https://github.com/debugwithprakash/DSA-Practice/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/debugwithprakash/DSA-Practice/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/debugwithprakash/DSA-Practice/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/debugwithprakash/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -278,6 +281,7 @@ Implementation of core Data Structures and Algorithms with examples of arrays, s
 | ------- |
 | [0020-valid-parentheses](https://github.com/debugwithprakash/DSA-Practice/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/debugwithprakash/DSA-Practice/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/debugwithprakash/DSA-Practice/tree/master/0085-maximal-rectangle) |
 | [0143-reorder-list](https://github.com/debugwithprakash/DSA-Practice/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/debugwithprakash/DSA-Practice/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/debugwithprakash/DSA-Practice/tree/master/0503-next-greater-element-ii) |
@@ -302,6 +306,7 @@ Implementation of core Data Structures and Algorithms with examples of arrays, s
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/debugwithprakash/DSA-Practice/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/debugwithprakash/DSA-Practice/tree/master/0085-maximal-rectangle) |
 | [0503-next-greater-element-ii](https://github.com/debugwithprakash/DSA-Practice/tree/master/0503-next-greater-element-ii) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/debugwithprakash/DSA-Practice/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2487-remove-nodes-from-linked-list](https://github.com/debugwithprakash/DSA-Practice/tree/master/2487-remove-nodes-from-linked-list) |
