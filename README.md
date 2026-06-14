@@ -207,6 +207,7 @@ Implementation of core Data Structures and Algorithms with examples of arrays, s
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/debugwithprakash/DSA-Practice/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/debugwithprakash/DSA-Practice/tree/master/0303-range-sum-query-immutable) |
 ## Prefix Sum
 |  |
@@ -283,6 +284,7 @@ Implementation of core Data Structures and Algorithms with examples of arrays, s
 | [0084-largest-rectangle-in-histogram](https://github.com/debugwithprakash/DSA-Practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/debugwithprakash/DSA-Practice/tree/master/0085-maximal-rectangle) |
 | [0143-reorder-list](https://github.com/debugwithprakash/DSA-Practice/tree/master/0143-reorder-list) |
+| [0155-min-stack](https://github.com/debugwithprakash/DSA-Practice/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/debugwithprakash/DSA-Practice/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/debugwithprakash/DSA-Practice/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/debugwithprakash/DSA-Practice/tree/master/0682-baseball-game) |
