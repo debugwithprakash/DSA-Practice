@@ -43,6 +43,7 @@ Implementation of core Data Structures and Algorithms with examples of arrays, s
 | [1480-running-sum-of-1d-array](https://github.com/debugwithprakash/DSA-Practice/tree/master/1480-running-sum-of-1d-array) |
 | [1539-kth-missing-positive-number](https://github.com/debugwithprakash/DSA-Practice/tree/master/1539-kth-missing-positive-number) |
 | [1646-kth-missing-positive-number](https://github.com/debugwithprakash/DSA-Practice/tree/master/1646-kth-missing-positive-number) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/debugwithprakash/DSA-Practice/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/debugwithprakash/DSA-Practice/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2326-spiral-matrix-iv](https://github.com/debugwithprakash/DSA-Practice/tree/master/2326-spiral-matrix-iv) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/debugwithprakash/DSA-Practice/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -72,6 +73,7 @@ Implementation of core Data Structures and Algorithms with examples of arrays, s
 | [0268-missing-number](https://github.com/debugwithprakash/DSA-Practice/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/debugwithprakash/DSA-Practice/tree/master/0441-arranging-coins) |
 | [1013-fibonacci-number](https://github.com/debugwithprakash/DSA-Practice/tree/master/1013-fibonacci-number) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/debugwithprakash/DSA-Practice/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Binary Search
 |  |
 | ------- |
@@ -171,6 +173,7 @@ Implementation of core Data Structures and Algorithms with examples of arrays, s
 | [0206-reverse-linked-list](https://github.com/debugwithprakash/DSA-Practice/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/debugwithprakash/DSA-Practice/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/debugwithprakash/DSA-Practice/tree/master/1013-fibonacci-number) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/debugwithprakash/DSA-Practice/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2487-remove-nodes-from-linked-list](https://github.com/debugwithprakash/DSA-Practice/tree/master/2487-remove-nodes-from-linked-list) |
 ## Memoization
 |  |
@@ -187,6 +190,7 @@ Implementation of core Data Structures and Algorithms with examples of arrays, s
 | [0054-spiral-matrix](https://github.com/debugwithprakash/DSA-Practice/tree/master/0054-spiral-matrix) |
 | [0682-baseball-game](https://github.com/debugwithprakash/DSA-Practice/tree/master/0682-baseball-game) |
 | [0867-transpose-matrix](https://github.com/debugwithprakash/DSA-Practice/tree/master/0867-transpose-matrix) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/debugwithprakash/DSA-Practice/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2326-spiral-matrix-iv](https://github.com/debugwithprakash/DSA-Practice/tree/master/2326-spiral-matrix-iv) |
 ## String
 |  |
@@ -224,6 +228,7 @@ Implementation of core Data Structures and Algorithms with examples of arrays, s
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/debugwithprakash/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/debugwithprakash/DSA-Practice/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Backtracking
 |  |
 | ------- |
