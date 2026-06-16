@@ -212,6 +212,7 @@ Implementation of core Data Structures and Algorithms with examples of arrays, s
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/debugwithprakash/DSA-Practice/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/debugwithprakash/DSA-Practice/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/debugwithprakash/DSA-Practice/tree/master/0303-range-sum-query-immutable) |
 ## Prefix Sum
 |  |
@@ -227,6 +228,7 @@ Implementation of core Data Structures and Algorithms with examples of arrays, s
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/debugwithprakash/DSA-Practice/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/debugwithprakash/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/debugwithprakash/DSA-Practice/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Backtracking
@@ -290,6 +292,7 @@ Implementation of core Data Structures and Algorithms with examples of arrays, s
 | [0085-maximal-rectangle](https://github.com/debugwithprakash/DSA-Practice/tree/master/0085-maximal-rectangle) |
 | [0143-reorder-list](https://github.com/debugwithprakash/DSA-Practice/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/debugwithprakash/DSA-Practice/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/debugwithprakash/DSA-Practice/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/debugwithprakash/DSA-Practice/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/debugwithprakash/DSA-Practice/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/debugwithprakash/DSA-Practice/tree/master/0682-baseball-game) |
