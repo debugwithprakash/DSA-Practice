@@ -35,6 +35,7 @@ Implementation of core Data Structures and Algorithms with examples of arrays, s
 | [0493-reverse-pairs](https://github.com/debugwithprakash/DSA-Practice/tree/master/0493-reverse-pairs) |
 | [0503-next-greater-element-ii](https://github.com/debugwithprakash/DSA-Practice/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/debugwithprakash/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
+| [0622-design-circular-queue](https://github.com/debugwithprakash/DSA-Practice/tree/master/0622-design-circular-queue) |
 | [0645-set-mismatch](https://github.com/debugwithprakash/DSA-Practice/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/debugwithprakash/DSA-Practice/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/debugwithprakash/DSA-Practice/tree/master/0704-binary-search) |
@@ -214,6 +215,7 @@ Implementation of core Data Structures and Algorithms with examples of arrays, s
 | [0155-min-stack](https://github.com/debugwithprakash/DSA-Practice/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/debugwithprakash/DSA-Practice/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/debugwithprakash/DSA-Practice/tree/master/0303-range-sum-query-immutable) |
+| [0622-design-circular-queue](https://github.com/debugwithprakash/DSA-Practice/tree/master/0622-design-circular-queue) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -230,6 +232,7 @@ Implementation of core Data Structures and Algorithms with examples of arrays, s
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/debugwithprakash/DSA-Practice/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/debugwithprakash/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
+| [0622-design-circular-queue](https://github.com/debugwithprakash/DSA-Practice/tree/master/0622-design-circular-queue) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/debugwithprakash/DSA-Practice/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Backtracking
 |  |
@@ -277,6 +280,7 @@ Implementation of core Data Structures and Algorithms with examples of arrays, s
 | [0237-delete-node-in-a-linked-list](https://github.com/debugwithprakash/DSA-Practice/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/debugwithprakash/DSA-Practice/tree/master/0328-odd-even-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/debugwithprakash/DSA-Practice/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [0622-design-circular-queue](https://github.com/debugwithprakash/DSA-Practice/tree/master/0622-design-circular-queue) |
 | [0876-middle-of-the-linked-list](https://github.com/debugwithprakash/DSA-Practice/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/debugwithprakash/DSA-Practice/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/debugwithprakash/DSA-Practice/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
