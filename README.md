@@ -205,6 +205,7 @@ Implementation of core Data Structures and Algorithms with examples of arrays, s
 | [0125-valid-palindrome](https://github.com/debugwithprakash/DSA-Practice/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/debugwithprakash/DSA-Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/debugwithprakash/DSA-Practice/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/debugwithprakash/DSA-Practice/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/debugwithprakash/DSA-Practice/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/debugwithprakash/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/debugwithprakash/DSA-Practice/tree/master/0443-string-compression) |
@@ -242,6 +243,7 @@ Implementation of core Data Structures and Algorithms with examples of arrays, s
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/debugwithprakash/DSA-Practice/tree/master/0022-generate-parentheses) |
+| [0257-binary-tree-paths](https://github.com/debugwithprakash/DSA-Practice/tree/master/0257-binary-tree-paths) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -326,6 +328,7 @@ Implementation of core Data Structures and Algorithms with examples of arrays, s
 | [0144-binary-tree-preorder-traversal](https://github.com/debugwithprakash/DSA-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/debugwithprakash/DSA-Practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/debugwithprakash/DSA-Practice/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/debugwithprakash/DSA-Practice/tree/master/0257-binary-tree-paths) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/debugwithprakash/DSA-Practice/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Doubly-Linked List
 |  |
@@ -352,6 +355,7 @@ Implementation of core Data Structures and Algorithms with examples of arrays, s
 | [0145-binary-tree-postorder-traversal](https://github.com/debugwithprakash/DSA-Practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/debugwithprakash/DSA-Practice/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/debugwithprakash/DSA-Practice/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/debugwithprakash/DSA-Practice/tree/master/0257-binary-tree-paths) |
 ## Binary Tree
 |  |
 | ------- |
@@ -365,6 +369,7 @@ Implementation of core Data Structures and Algorithms with examples of arrays, s
 | [0145-binary-tree-postorder-traversal](https://github.com/debugwithprakash/DSA-Practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/debugwithprakash/DSA-Practice/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/debugwithprakash/DSA-Practice/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/debugwithprakash/DSA-Practice/tree/master/0257-binary-tree-paths) |
 ## Breadth-First Search
 |  |
 | ------- |
