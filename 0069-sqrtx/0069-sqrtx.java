@@ -1,16 +1,25 @@
-class Solution 
-{
-    public int mySqrt(int x) 
-    {
-        long i = 0;
-        long j = x;
-        while(i <= j)
-        {
-            long mid = i+(j-i)/2;
-            if(mid*mid == x) return (int)mid;
-            else if(mid*mid < x) i = mid+1;
-            else j = mid-1;
+class Solution {
+    public int mySqrt(int x) {
+        int low = 1;
+        int high = x;
+        int ans = -1;
+
+        if(x == 0) return 0;
+
+        while(low <= high) {
+            int mid = low + (high-low) / 2;
+
+            if(mid == x/mid) {
+                return mid;
+            }
+            else if(mid < x/mid) {
+                ans = mid;
+                low = mid+1;
+            }
+            else {
+                high = mid-1;
+            }
         }
-        return (int)j;
+        return ans;
     }
 }
