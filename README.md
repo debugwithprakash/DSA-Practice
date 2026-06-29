@@ -15,6 +15,7 @@ Implementation of core Data Structures and Algorithms with examples of arrays, s
 | [0033-search-in-rotated-sorted-array](https://github.com/debugwithprakash/DSA-Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0041-first-missing-positive](https://github.com/debugwithprakash/DSA-Practice/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/debugwithprakash/DSA-Practice/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/debugwithprakash/DSA-Practice/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/debugwithprakash/DSA-Practice/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/debugwithprakash/DSA-Practice/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/debugwithprakash/DSA-Practice/tree/master/0066-plus-one) |
@@ -143,6 +144,7 @@ Implementation of core Data Structures and Algorithms with examples of arrays, s
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/debugwithprakash/DSA-Practice/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/debugwithprakash/DSA-Practice/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/debugwithprakash/DSA-Practice/tree/master/0148-sort-list) |
 | [0240-search-a-2d-matrix-ii](https://github.com/debugwithprakash/DSA-Practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0493-reverse-pairs](https://github.com/debugwithprakash/DSA-Practice/tree/master/0493-reverse-pairs) |
@@ -160,6 +162,7 @@ Implementation of core Data Structures and Algorithms with examples of arrays, s
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/debugwithprakash/DSA-Practice/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/debugwithprakash/DSA-Practice/tree/master/0053-maximum-subarray) |
 | [0085-maximal-rectangle](https://github.com/debugwithprakash/DSA-Practice/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/debugwithprakash/DSA-Practice/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/debugwithprakash/DSA-Practice/tree/master/0119-pascals-triangle-ii) |
