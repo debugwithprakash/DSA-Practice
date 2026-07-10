@@ -34,6 +34,7 @@ Implementation of core Data Structures and Algorithms with examples of arrays, s
 | [0287-find-the-duplicate-number](https://github.com/debugwithprakash/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/debugwithprakash/DSA-Practice/tree/master/0303-range-sum-query-immutable) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/debugwithprakash/DSA-Practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0485-max-consecutive-ones](https://github.com/debugwithprakash/DSA-Practice/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/debugwithprakash/DSA-Practice/tree/master/0493-reverse-pairs) |
 | [0503-next-greater-element-ii](https://github.com/debugwithprakash/DSA-Practice/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/debugwithprakash/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
