@@ -25,6 +25,7 @@ Implementation of core Data Structures and Algorithms with examples of arrays, s
 | [0118-pascals-triangle](https://github.com/debugwithprakash/DSA-Practice/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/debugwithprakash/DSA-Practice/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/debugwithprakash/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/debugwithprakash/DSA-Practice/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/debugwithprakash/DSA-Practice/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/debugwithprakash/DSA-Practice/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/debugwithprakash/DSA-Practice/tree/master/0238-product-of-array-except-self) |
@@ -105,6 +106,7 @@ Implementation of core Data Structures and Algorithms with examples of arrays, s
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/debugwithprakash/DSA-Practice/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/debugwithprakash/DSA-Practice/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/debugwithprakash/DSA-Practice/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/debugwithprakash/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
