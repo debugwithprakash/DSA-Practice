@@ -20,6 +20,7 @@ Implementation of core Data Structures and Algorithms with examples of arrays, s
 | [0056-merge-intervals](https://github.com/debugwithprakash/DSA-Practice/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/debugwithprakash/DSA-Practice/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/debugwithprakash/DSA-Practice/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/debugwithprakash/DSA-Practice/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/debugwithprakash/DSA-Practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/debugwithprakash/DSA-Practice/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/debugwithprakash/DSA-Practice/tree/master/0118-pascals-triangle) |
@@ -118,6 +119,7 @@ Implementation of core Data Structures and Algorithms with examples of arrays, s
 | [0016-3sum-closest](https://github.com/debugwithprakash/DSA-Practice/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/debugwithprakash/DSA-Practice/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/debugwithprakash/DSA-Practice/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/debugwithprakash/DSA-Practice/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/debugwithprakash/DSA-Practice/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/debugwithprakash/DSA-Practice/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/debugwithprakash/DSA-Practice/tree/master/0242-valid-anagram) |
@@ -134,6 +136,7 @@ Implementation of core Data Structures and Algorithms with examples of arrays, s
 | [0026-remove-duplicates-from-sorted-array](https://github.com/debugwithprakash/DSA-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/debugwithprakash/DSA-Practice/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/debugwithprakash/DSA-Practice/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/debugwithprakash/DSA-Practice/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/debugwithprakash/DSA-Practice/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/debugwithprakash/DSA-Practice/tree/master/0086-partition-list) |
 | [0125-valid-palindrome](https://github.com/debugwithprakash/DSA-Practice/tree/master/0125-valid-palindrome) |
