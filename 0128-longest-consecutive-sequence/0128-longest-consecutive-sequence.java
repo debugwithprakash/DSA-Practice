@@ -2,37 +2,34 @@ class Solution {
     public int longestConsecutive(int[] nums) {
         int n = nums.length;
         if(n == 0) return 0;
+        if(n == 1) return 1;
 
-        Queue<Integer> q = new PriorityQueue<>();
-        for(int i = 0; i < n; i++) {
-            q.offer(nums[i]);
+        TreeSet<Integer> set = new TreeSet<>();
+        for(int ele : nums) {
+            set.add(ele);
         }
 
-        int[] ans = new int[n];
-        for(int i = 0; i < n; i++) {
-            ans[i] = q.poll();
+        int[] arr = new int[n];
+        int idx = 0;
+        for(int ele : set) {
+            arr[idx++] = ele;
         }
 
-        int maxLength = 1;
-        int i = 0;
-        int j = 1;
+        int maxLen = 1;
+        int i = 0, j = 1;
         while(j < n) {
-            if(ans[j] == ans[j-1]) {
-                i++;
-                j++;
-            } else if(ans[j] == ans[j-1]+1) {
+            if(arr[j] == arr[j-1]+1) {
                 j++;
             } else {
-                int currLength = j-i;
-                maxLength = Math.max(maxLength, currLength);
+                int len = j-i;
+                maxLen = Math.max(maxLen, len);
                 i = j;
                 j++;
             }
         }
-        int currLength = j-i;
-        maxLength = Math.max(maxLength, currLength);
-        i = j;
+        int len = j-i;
+        maxLen = Math.max(maxLen, len);
 
-        return maxLength;
+        return maxLen;
     }
 }
