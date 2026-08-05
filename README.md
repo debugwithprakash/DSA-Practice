@@ -26,6 +26,7 @@ Implementation of core Data Structures and Algorithms with examples of arrays, s
 | [0118-pascals-triangle](https://github.com/debugwithprakash/DSA-Practice/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/debugwithprakash/DSA-Practice/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/debugwithprakash/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/debugwithprakash/DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/debugwithprakash/DSA-Practice/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/debugwithprakash/DSA-Practice/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/debugwithprakash/DSA-Practice/tree/master/0189-rotate-array) |
@@ -62,6 +63,7 @@ Implementation of core Data Structures and Algorithms with examples of arrays, s
 | [0001-two-sum](https://github.com/debugwithprakash/DSA-Practice/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/debugwithprakash/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/debugwithprakash/DSA-Practice/tree/master/0041-first-missing-positive) |
+| [0128-longest-consecutive-sequence](https://github.com/debugwithprakash/DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/debugwithprakash/DSA-Practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/debugwithprakash/DSA-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/debugwithprakash/DSA-Practice/tree/master/0160-intersection-of-two-linked-lists) |
@@ -415,4 +417,8 @@ Implementation of core Data Structures and Algorithms with examples of arrays, s
 |  |
 | ------- |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/debugwithprakash/DSA-Practice/tree/master/1838-frequency-of-the-most-frequent-element) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/debugwithprakash/DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
