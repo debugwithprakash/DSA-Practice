@@ -19,6 +19,7 @@ Implementation of core Data Structures and Algorithms with examples of arrays, s
 | [0054-spiral-matrix](https://github.com/debugwithprakash/DSA-Practice/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/debugwithprakash/DSA-Practice/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/debugwithprakash/DSA-Practice/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/debugwithprakash/DSA-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/debugwithprakash/DSA-Practice/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/debugwithprakash/DSA-Practice/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/debugwithprakash/DSA-Practice/tree/master/0084-largest-rectangle-in-histogram) |
@@ -63,6 +64,7 @@ Implementation of core Data Structures and Algorithms with examples of arrays, s
 | [0001-two-sum](https://github.com/debugwithprakash/DSA-Practice/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/debugwithprakash/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/debugwithprakash/DSA-Practice/tree/master/0041-first-missing-positive) |
+| [0073-set-matrix-zeroes](https://github.com/debugwithprakash/DSA-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/debugwithprakash/DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/debugwithprakash/DSA-Practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/debugwithprakash/DSA-Practice/tree/master/0142-linked-list-cycle-ii) |
@@ -174,6 +176,7 @@ Implementation of core Data Structures and Algorithms with examples of arrays, s
 | ------- |
 | [0048-rotate-image](https://github.com/debugwithprakash/DSA-Practice/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/debugwithprakash/DSA-Practice/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/debugwithprakash/DSA-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/debugwithprakash/DSA-Practice/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/debugwithprakash/DSA-Practice/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/debugwithprakash/DSA-Practice/tree/master/0240-search-a-2d-matrix-ii) |
