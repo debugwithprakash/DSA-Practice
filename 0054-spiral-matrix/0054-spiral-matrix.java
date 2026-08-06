@@ -1,35 +1,37 @@
 class Solution {
     public List<Integer> spiralOrder(int[][] matrix) {
-        List<Integer> ans = new ArrayList<>();
         int m = matrix.length;
         int n = matrix[0].length;
-        int count = 0;
-        int sr = 0, lr = matrix.length-1, sc = 0, lc = matrix[0].length-1;
-        while(count < m*n) {
-            for(int i = sc; i <= lc; i++) {
-                ans.add(matrix[sr][i]);
-                count++;
+
+        List<Integer> ans = new ArrayList<>();
+
+        int rs = 0, re = m-1;
+        int cs = 0, ce = n-1;
+        while(rs <= re && cs <= ce) {
+            for(int i = cs; i <= ce; i++) {
+                ans.add(matrix[rs][i]);
             }
-            sr++;
-            if(count == m*n) break;
-            for(int i = sr; i <= lr; i++) {
-                ans.add(matrix[i][lc]);
-                count++;
+            rs++;
+            if(rs > re || cs > ce) break;
+
+            for(int i = rs; i <= re; i++) {
+                ans.add(matrix[i][ce]);
             }
-            lc--;
-            if(count == m*n) break;
-            for(int i = lc; i >= sc; i--) {
-                ans.add(matrix[lr][i]);
-                count++;
+            ce--;
+            if(rs > re || cs > ce) break;
+
+            for(int i = ce; i >= cs; i--) {
+                ans.add(matrix[re][i]);
             }
-            lr--;
-            if(count == m*n) break;
-            for(int i = lr; i >= sr; i--) {
-                ans.add(matrix[i][sc]);
-                count++;
+            re--;
+            if(rs > re || cs > ce) break;
+
+            for(int i = re; i >= rs; i--) {
+                ans.add(matrix[i][cs]);
             }
-            sc++;
+            cs++;
         }
+
         return ans;
     }
 }
