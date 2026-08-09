@@ -3,8 +3,8 @@ class Solution {
         int min = prices[0];
         int maxProfit = 0;
         for(int i = 1; i < prices.length; i++) {
-            int cost = prices[i]-min;
-            maxProfit = Math.max(maxProfit, cost);
+            int currProfit = prices[i] - min;
+            maxProfit = Math.max(maxProfit, currProfit);
             min = Math.min(min, prices[i]);
         }
         return maxProfit;
