@@ -424,4 +424,12 @@ Implementation of core Data Structures and Algorithms with examples of arrays, s
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/debugwithprakash/DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/debugwithprakash/DSA-Practice/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/debugwithprakash/DSA-Practice/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
