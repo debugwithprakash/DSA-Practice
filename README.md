@@ -431,6 +431,7 @@ Implementation of core Data Structures and Algorithms with examples of arrays, s
 ## Quicksort
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/debugwithprakash/DSA-Practice/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/debugwithprakash/DSA-Practice/tree/master/0075-sort-colors) |
 ## Bubble Sort
 |  |
