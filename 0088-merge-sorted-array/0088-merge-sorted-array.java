@@ -1,20 +1,16 @@
 class Solution {
     public void merge(int[] nums1, int m, int[] nums2, int n) {
-        int[] temp = new int[m+n];
-        int idx = 0;
-        int i = 0, j = 0;
-        while(i < m && j < n) {
-            if(nums1[i]<=nums2[j]) {
-                temp[idx++] = nums1[i++];
+        int r1 = m-1;
+        int r2 = n-1;
+        int w = m+n-1;
+        while(r1 >= 0 && r2 >= 0) {
+            if(nums1[r1] >= nums2[r2]) {
+                nums1[w--] = nums1[r1--];
             } else {
-                temp[idx++] = nums2[j++];
+                nums1[w--] = nums2[r2--];
             }
         }
-        while(i<m) temp[idx++] = nums1[i++];
-        while(j<n) temp[idx++] = nums2[j++];
-        
-        for(i = 0; i < m+n; i++) {
-            nums1[i] = temp[i];
-        }
+        while(r1 >= 0) nums1[w--] = nums1[r1--];
+        while(r2 >= 0) nums1[w--] = nums2[r2--];
     }
 }
