@@ -24,6 +24,7 @@ Implementation of core Data Structures and Algorithms with examples of arrays, s
 | [0075-sort-colors](https://github.com/debugwithprakash/DSA-Practice/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/debugwithprakash/DSA-Practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/debugwithprakash/DSA-Practice/tree/master/0085-maximal-rectangle) |
+| [0088-merge-sorted-array](https://github.com/debugwithprakash/DSA-Practice/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/debugwithprakash/DSA-Practice/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/debugwithprakash/DSA-Practice/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/debugwithprakash/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -127,6 +128,7 @@ Implementation of core Data Structures and Algorithms with examples of arrays, s
 | [0018-4sum](https://github.com/debugwithprakash/DSA-Practice/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/debugwithprakash/DSA-Practice/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/debugwithprakash/DSA-Practice/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/debugwithprakash/DSA-Practice/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/debugwithprakash/DSA-Practice/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/debugwithprakash/DSA-Practice/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/debugwithprakash/DSA-Practice/tree/master/0229-majority-element-ii) |
@@ -147,6 +149,7 @@ Implementation of core Data Structures and Algorithms with examples of arrays, s
 | [0075-sort-colors](https://github.com/debugwithprakash/DSA-Practice/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/debugwithprakash/DSA-Practice/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/debugwithprakash/DSA-Practice/tree/master/0086-partition-list) |
+| [0088-merge-sorted-array](https://github.com/debugwithprakash/DSA-Practice/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/debugwithprakash/DSA-Practice/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/debugwithprakash/DSA-Practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/debugwithprakash/DSA-Practice/tree/master/0142-linked-list-cycle-ii) |
