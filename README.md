@@ -445,4 +445,12 @@ Implementation of core Data Structures and Algorithms with examples of arrays, s
 | ------- |
 | [0169-majority-element](https://github.com/debugwithprakash/DSA-Practice/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/debugwithprakash/DSA-Practice/tree/master/0229-majority-element-ii) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/debugwithprakash/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/debugwithprakash/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
