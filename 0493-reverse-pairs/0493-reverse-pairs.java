@@ -1,47 +1,48 @@
 class Solution {
     static int count;
-    public int reversePairs(int[] nums) {
-        count = 0;
-        mergeSort(nums);
-        return count;
+    public void merge(int[] a, int[] b, int[] nums) {
+        int i = 0;
+        int j = 0;
+        int idx = 0;
+        while(i<a.length && j<b.length) {
+            if(a[i] <= b[j]) {
+                nums[idx++] = a[i++];
+            } else {
+                nums[idx++] = b[j++];
+            }
+        }
+        while(i<a.length) nums[idx++] = a[i++];
+        while(j<b.length) nums[idx++] = b[j++];
     }
-    public void mergeSort(int[] arr) {
-        int n = arr.length;
-        if(n == 1) return;
+    public void countPairs(int[] a, int[] b) {
+        int j = 0;
+        for(int i = 0; i < a.length; i++) {
+            while(j<b.length && (long)a[i]>(long)2*b[j]) {
+                j++;
+            }
+            count += j;
+        }
+    }
+    public void mergeSort(int[] nums) {
+        int n = nums.length;
+        if(n <= 1) return;
 
         int[] a = new int[n/2];
         int[] b = new int[n-n/2];
-
         int idx = 0;
-        for(int i = 0; i < a.length; i++) a[i] = arr[idx++];
-        for(int i = 0; i < b.length; i++) b[i] = arr[idx++];
+        for(int i = 0; i < n/2; i++) a[i] = nums[idx++];
+        for(int i = 0; i < n-n/2; i++) b[i] = nums[idx++];
 
         mergeSort(a);
         mergeSort(b);
 
-        reversePairs(a, b);
+        countPairs(a, b);
 
-        merge(a, b, arr);
+        merge(a, b, nums);
     }
-    public void reversePairs(int[] a, int[] b) {
-        int i = 0, j = 0;
-        while(i<a.length && j<b.length) {
-            if(a[i]>(long)2*b[j]) {
-                count += a.length-i;
-                j++;
-            }
-            else {
-                i++;
-            }
-        }
-    }
-    public void merge(int[] a, int[] b, int[] arr) {
-        int i = 0, j = 0, idx = 0;
-        while(i<a.length && j<b.length) {
-            if(a[i] < b[j]) arr[idx++] = a[i++];
-            else arr[idx++] = b[j++];
-        }
-        while (i<a.length) arr[idx++] = a[i++];
-        while (j<b.length) arr[idx++] = b[j++];
+    public int reversePairs(int[] nums) {
+        count = 0;
+        mergeSort(nums);
+        return count;
     }
 }
