@@ -1,5 +1,4 @@
 class Solution {
-    static int count;
     public void merge(int[] a, int[] b, int[] nums) {
         int i = 0;
         int j = 0;
@@ -14,7 +13,8 @@ class Solution {
         while(i<a.length) nums[idx++] = a[i++];
         while(j<b.length) nums[idx++] = b[j++];
     }
-    public void countPairs(int[] a, int[] b) {
+    public int countPairs(int[] a, int[] b) {
+        int count = 0;
         int j = 0;
         for(int i = 0; i < a.length; i++) {
             while(j<b.length && (long)a[i]>(long)2*b[j]) {
@@ -22,10 +22,11 @@ class Solution {
             }
             count += j;
         }
+        return count;
     }
-    public void mergeSort(int[] nums) {
+    public int mergeSort(int[] nums) {
         int n = nums.length;
-        if(n <= 1) return;
+        if(n <= 1) return 0;
 
         int[] a = new int[n/2];
         int[] b = new int[n-n/2];
@@ -33,16 +34,18 @@ class Solution {
         for(int i = 0; i < n/2; i++) a[i] = nums[idx++];
         for(int i = 0; i < n-n/2; i++) b[i] = nums[idx++];
 
-        mergeSort(a);
-        mergeSort(b);
+        int count = 0;
 
-        countPairs(a, b);
+        count += mergeSort(a);
+        count += mergeSort(b);
+
+        count += countPairs(a, b);
 
         merge(a, b, nums);
+
+        return count;
     }
     public int reversePairs(int[] nums) {
-        count = 0;
-        mergeSort(nums);
-        return count;
+        return mergeSort(nums);
     }
 }
