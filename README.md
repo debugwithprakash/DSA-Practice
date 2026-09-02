@@ -63,6 +63,7 @@ Implementation of core Data Structures and Algorithms with examples of arrays, s
 | [1480-running-sum-of-1d-array](https://github.com/debugwithprakash/DSA-Practice/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/debugwithprakash/DSA-Practice/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/debugwithprakash/DSA-Practice/tree/master/1539-kth-missing-positive-number) |
+| [1552-magnetic-force-between-two-balls](https://github.com/debugwithprakash/DSA-Practice/tree/master/1552-magnetic-force-between-two-balls) |
 | [1646-kth-missing-positive-number](https://github.com/debugwithprakash/DSA-Practice/tree/master/1646-kth-missing-positive-number) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/debugwithprakash/DSA-Practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/debugwithprakash/DSA-Practice/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -130,6 +131,7 @@ Implementation of core Data Structures and Algorithms with examples of arrays, s
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/debugwithprakash/DSA-Practice/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/debugwithprakash/DSA-Practice/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/debugwithprakash/DSA-Practice/tree/master/1539-kth-missing-positive-number) |
+| [1552-magnetic-force-between-two-balls](https://github.com/debugwithprakash/DSA-Practice/tree/master/1552-magnetic-force-between-two-balls) |
 | [1646-kth-missing-positive-number](https://github.com/debugwithprakash/DSA-Practice/tree/master/1646-kth-missing-positive-number) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/debugwithprakash/DSA-Practice/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/debugwithprakash/DSA-Practice/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -156,6 +158,7 @@ Implementation of core Data Structures and Algorithms with examples of arrays, s
 | [0242-valid-anagram](https://github.com/debugwithprakash/DSA-Practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/debugwithprakash/DSA-Practice/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/debugwithprakash/DSA-Practice/tree/master/0645-set-mismatch) |
+| [1552-magnetic-force-between-two-balls](https://github.com/debugwithprakash/DSA-Practice/tree/master/1552-magnetic-force-between-two-balls) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/debugwithprakash/DSA-Practice/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Two Pointers
 |  |
