@@ -45,6 +45,7 @@ Implementation of core Data Structures and Algorithms with examples of arrays, s
 | [0283-move-zeroes](https://github.com/debugwithprakash/DSA-Practice/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/debugwithprakash/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/debugwithprakash/DSA-Practice/tree/master/0303-range-sum-query-immutable) |
+| [0410-split-array-largest-sum](https://github.com/debugwithprakash/DSA-Practice/tree/master/0410-split-array-largest-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/debugwithprakash/DSA-Practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/debugwithprakash/DSA-Practice/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/debugwithprakash/DSA-Practice/tree/master/0493-reverse-pairs) |
@@ -121,6 +122,7 @@ Implementation of core Data Structures and Algorithms with examples of arrays, s
 | [0240-search-a-2d-matrix-ii](https://github.com/debugwithprakash/DSA-Practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/debugwithprakash/DSA-Practice/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/debugwithprakash/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
+| [0410-split-array-largest-sum](https://github.com/debugwithprakash/DSA-Practice/tree/master/0410-split-array-largest-sum) |
 | [0441-arranging-coins](https://github.com/debugwithprakash/DSA-Practice/tree/master/0441-arranging-coins) |
 | [0493-reverse-pairs](https://github.com/debugwithprakash/DSA-Practice/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/debugwithprakash/DSA-Practice/tree/master/0540-single-element-in-a-sorted-array) |
@@ -222,6 +224,7 @@ Implementation of core Data Structures and Algorithms with examples of arrays, s
 | [0119-pascals-triangle-ii](https://github.com/debugwithprakash/DSA-Practice/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/debugwithprakash/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/debugwithprakash/DSA-Practice/tree/master/0152-maximum-product-subarray) |
+| [0410-split-array-largest-sum](https://github.com/debugwithprakash/DSA-Practice/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/debugwithprakash/DSA-Practice/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/debugwithprakash/DSA-Practice/tree/master/1013-fibonacci-number) |
 ## Recursion
@@ -289,6 +292,7 @@ Implementation of core Data Structures and Algorithms with examples of arrays, s
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/debugwithprakash/DSA-Practice/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/debugwithprakash/DSA-Practice/tree/master/0303-range-sum-query-immutable) |
+| [0410-split-array-largest-sum](https://github.com/debugwithprakash/DSA-Practice/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/debugwithprakash/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [1480-running-sum-of-1d-array](https://github.com/debugwithprakash/DSA-Practice/tree/master/1480-running-sum-of-1d-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/debugwithprakash/DSA-Practice/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -451,6 +455,7 @@ Implementation of core Data Structures and Algorithms with examples of arrays, s
 ## Greedy
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/debugwithprakash/DSA-Practice/tree/master/0410-split-array-largest-sum) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/debugwithprakash/DSA-Practice/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Union-Find
 |  |
