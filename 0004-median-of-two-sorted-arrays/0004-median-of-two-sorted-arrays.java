@@ -6,7 +6,7 @@ class Solution {
         int[] arr = new int[n1+n2];
 
         int i = 0, j = 0, k = 0;
-        while(i<n1 && j <n2) {
+        while(i<n1 && j<n2) {
             if(nums1[i] < nums2[j]) {
                 arr[k++] = nums1[i++];
             } else {
@@ -17,7 +17,7 @@ class Solution {
         while(j<n2) arr[k++] = nums2[j++];
 
         int mid = (arr.length-1)/2;
-        int leftDis = mid-0;
+        int leftDis = mid;
         int rightDis = (arr.length-1)-mid;
         if(leftDis == rightDis) return arr[mid];
         return (double)(arr[mid]+arr[mid+1])/2;
