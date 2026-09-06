@@ -7,6 +7,7 @@ Implementation of core Data Structures and Algorithms with examples of arrays, s
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/debugwithprakash/DSA-Practice/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/debugwithprakash/DSA-Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/debugwithprakash/DSA-Practice/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/debugwithprakash/DSA-Practice/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/debugwithprakash/DSA-Practice/tree/master/0018-4sum) |
@@ -110,6 +111,7 @@ Implementation of core Data Structures and Algorithms with examples of arrays, s
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/debugwithprakash/DSA-Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/debugwithprakash/DSA-Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/debugwithprakash/DSA-Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/debugwithprakash/DSA-Practice/tree/master/0035-search-insert-position) |
@@ -197,6 +199,7 @@ Implementation of core Data Structures and Algorithms with examples of arrays, s
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/debugwithprakash/DSA-Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/debugwithprakash/DSA-Practice/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/debugwithprakash/DSA-Practice/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/debugwithprakash/DSA-Practice/tree/master/0148-sort-list) |
