@@ -4,43 +4,35 @@ class Solution {
         int n2 = nums2.length;
         int n = n1+n2;
 
-        int idx2 = (n1+n2)/2;
-        int idx1 = idx2-1;
+        if(n1 > n2) return findMedianSortedArrays(nums2, nums1);
 
-        int ele1 = -1;
-        int ele2 = -1;
+        int left = (n1+n2+1)/2;
 
-        int count = 0;
+        int low = 0, high = n1;
+        while(low<=high) {
+            int mid1 = (low+high)/2;
+            int mid2 = left-mid1;
 
-        int i = 0;
-        int j = 0;
-        while(i<n1 && j<n2) {
-            if(nums1[i]<=nums2[j]) {
-                if(count == idx1) ele1 = nums1[i];
-                if(count == idx2) ele2 = nums1[i];
-                i++;
-                count++;
-            } else {
-                if(count == idx1) ele1 = nums2[j];
-                if(count == idx2) ele2 = nums2[j];
-                j++;
-                count++;
+            int r1 = Integer.MAX_VALUE;
+            int r2 = Integer.MAX_VALUE;
+            int l1 = Integer.MIN_VALUE;
+            int l2 = Integer.MIN_VALUE;
+            
+            if(mid1<n1) r1 = nums1[mid1];
+            if(mid2<n2) r2 = nums2[mid2];
+            if(mid1>0) l1 = nums1[mid1-1];
+            if(mid2>0) l2 = nums2[mid2-1];
+
+            if(l1<=r2 && l2<=r1) {
+                if(n%2 == 0) return (Math.max(l1, l2) + Math.min(r1, r2)) / 2.0;
+                else return Math.max(l1, l2);
+            } else if(l1<r2) { // go right
+                low = mid1+1;
+            } else { // go left
+                high = mid1-1;
             }
         }
-        while(i<n1) {
-            if(count == idx1) ele1 = nums1[i];
-            if(count == idx2) ele2 = nums1[i];
-            i++;
-            count++;
-        }
-        while(j<n2) {
-            if(count == idx1) ele1 = nums2[j];
-            if(count == idx2) ele2 = nums2[j];
-            j++;
-            count++;
-        }
 
-        if(n%2 != 0) return ele2;
-        return (double)(ele1+ele2)/2;
+        return 0;
     }
 }
