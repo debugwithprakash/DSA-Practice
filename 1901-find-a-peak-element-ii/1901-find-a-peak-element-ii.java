@@ -27,8 +27,9 @@ class Solution {
             int right = (mid+1 < m) ? mat[maxRowIdx][mid+1] : -1;
 
             if(left<mat[maxRowIdx][mid] && right<mat[maxRowIdx][mid]) {
-                int[] ans = {maxRowIdx, mid};
-                return ans;
+
+                return new int[] {maxRowIdx, mid};
+
             } else if(left > mat[maxRowIdx][mid]) {
                 // go left
                 high = mid-1;
@@ -37,7 +38,7 @@ class Solution {
                 low = mid+1;
             }
         }
-        int[] ans = {-1,-1};
-        return ans;
+        
+        return new int[] {-1, -1};
     }
 }
