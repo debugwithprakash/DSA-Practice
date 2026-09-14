@@ -70,6 +70,7 @@ Implementation of core Data Structures and Algorithms with examples of arrays, s
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/debugwithprakash/DSA-Practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/debugwithprakash/DSA-Practice/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/debugwithprakash/DSA-Practice/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1901-find-a-peak-element-ii](https://github.com/debugwithprakash/DSA-Practice/tree/master/1901-find-a-peak-element-ii) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/debugwithprakash/DSA-Practice/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/debugwithprakash/DSA-Practice/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2326-spiral-matrix-iv](https://github.com/debugwithprakash/DSA-Practice/tree/master/2326-spiral-matrix-iv) |
@@ -138,6 +139,7 @@ Implementation of core Data Structures and Algorithms with examples of arrays, s
 | [1552-magnetic-force-between-two-balls](https://github.com/debugwithprakash/DSA-Practice/tree/master/1552-magnetic-force-between-two-balls) |
 | [1646-kth-missing-positive-number](https://github.com/debugwithprakash/DSA-Practice/tree/master/1646-kth-missing-positive-number) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/debugwithprakash/DSA-Practice/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1901-find-a-peak-element-ii](https://github.com/debugwithprakash/DSA-Practice/tree/master/1901-find-a-peak-element-ii) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/debugwithprakash/DSA-Practice/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Bit Manipulation
 |  |
@@ -216,6 +218,7 @@ Implementation of core Data Structures and Algorithms with examples of arrays, s
 | [0085-maximal-rectangle](https://github.com/debugwithprakash/DSA-Practice/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/debugwithprakash/DSA-Practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/debugwithprakash/DSA-Practice/tree/master/0867-transpose-matrix) |
+| [1901-find-a-peak-element-ii](https://github.com/debugwithprakash/DSA-Practice/tree/master/1901-find-a-peak-element-ii) |
 | [2326-spiral-matrix-iv](https://github.com/debugwithprakash/DSA-Practice/tree/master/2326-spiral-matrix-iv) |
 ## Dynamic Programming
 |  |
