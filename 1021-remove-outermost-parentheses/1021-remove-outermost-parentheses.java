@@ -3,16 +3,9 @@ class Solution {
         String ans = "";
         int count = 0;
         for(int i=0; i<s.length(); i++) {
-            if(count==0 && s.charAt(i)=='(') count++;
-            else if(count!=0 && s.charAt(i)=='(') {
-                ans += s.charAt(i);
-                count++;
-            } else if(count==1 && s.charAt(i)==')') {
-                count--;
-            } else if(count!=0 && s.charAt(i)==')') {
-                ans += s.charAt(i);
-                count--;
-            }
+            if(s.charAt(i)==')') count--;
+            if(count!=0) ans += s.charAt(i);
+            if(s.charAt(i)=='(') count++;
         }
         return ans;
     }
