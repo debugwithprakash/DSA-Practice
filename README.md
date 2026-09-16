@@ -109,6 +109,7 @@ Implementation of core Data Structures and Algorithms with examples of arrays, s
 | [0509-fibonacci-number](https://github.com/debugwithprakash/DSA-Practice/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/debugwithprakash/DSA-Practice/tree/master/1013-fibonacci-number) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/debugwithprakash/DSA-Practice/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1903-largest-odd-number-in-string](https://github.com/debugwithprakash/DSA-Practice/tree/master/1903-largest-odd-number-in-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -286,6 +287,7 @@ Implementation of core Data Structures and Algorithms with examples of arrays, s
 | [0709-to-lower-case](https://github.com/debugwithprakash/DSA-Practice/tree/master/0709-to-lower-case) |
 | [1021-remove-outermost-parentheses](https://github.com/debugwithprakash/DSA-Practice/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/debugwithprakash/DSA-Practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1903-largest-odd-number-in-string](https://github.com/debugwithprakash/DSA-Practice/tree/master/1903-largest-odd-number-in-string) |
 ## Design
 |  |
 | ------- |
@@ -465,6 +467,7 @@ Implementation of core Data Structures and Algorithms with examples of arrays, s
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/debugwithprakash/DSA-Practice/tree/master/0410-split-array-largest-sum) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/debugwithprakash/DSA-Practice/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1903-largest-odd-number-in-string](https://github.com/debugwithprakash/DSA-Practice/tree/master/1903-largest-odd-number-in-string) |
 ## Union-Find
 |  |
 | ------- |
