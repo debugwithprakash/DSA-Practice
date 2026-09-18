@@ -289,6 +289,7 @@ Implementation of core Data Structures and Algorithms with examples of arrays, s
 | [0443-string-compression](https://github.com/debugwithprakash/DSA-Practice/tree/master/0443-string-compression) |
 | [0520-detect-capital](https://github.com/debugwithprakash/DSA-Practice/tree/master/0520-detect-capital) |
 | [0709-to-lower-case](https://github.com/debugwithprakash/DSA-Practice/tree/master/0709-to-lower-case) |
+| [0796-rotate-string](https://github.com/debugwithprakash/DSA-Practice/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/debugwithprakash/DSA-Practice/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/debugwithprakash/DSA-Practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1903-largest-odd-number-in-string](https://github.com/debugwithprakash/DSA-Practice/tree/master/1903-largest-odd-number-in-string) |
@@ -510,4 +511,8 @@ Implementation of core Data Structures and Algorithms with examples of arrays, s
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/debugwithprakash/DSA-Practice/tree/master/0014-longest-common-prefix) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/debugwithprakash/DSA-Practice/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
