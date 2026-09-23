@@ -94,6 +94,7 @@ Implementation of core Data Structures and Algorithms with examples of arrays, s
 | [0268-missing-number](https://github.com/debugwithprakash/DSA-Practice/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/debugwithprakash/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/debugwithprakash/DSA-Practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0451-sort-characters-by-frequency](https://github.com/debugwithprakash/DSA-Practice/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/debugwithprakash/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/debugwithprakash/DSA-Practice/tree/master/0645-set-mismatch) |
 ## Math
@@ -166,6 +167,7 @@ Implementation of core Data Structures and Algorithms with examples of arrays, s
 | [0229-majority-element-ii](https://github.com/debugwithprakash/DSA-Practice/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/debugwithprakash/DSA-Practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/debugwithprakash/DSA-Practice/tree/master/0268-missing-number) |
+| [0451-sort-characters-by-frequency](https://github.com/debugwithprakash/DSA-Practice/tree/master/0451-sort-characters-by-frequency) |
 | [0645-set-mismatch](https://github.com/debugwithprakash/DSA-Practice/tree/master/0645-set-mismatch) |
 | [1552-magnetic-force-between-two-balls](https://github.com/debugwithprakash/DSA-Practice/tree/master/1552-magnetic-force-between-two-balls) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/debugwithprakash/DSA-Practice/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -261,6 +263,7 @@ Implementation of core Data Structures and Algorithms with examples of arrays, s
 | [0169-majority-element](https://github.com/debugwithprakash/DSA-Practice/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/debugwithprakash/DSA-Practice/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/debugwithprakash/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/debugwithprakash/DSA-Practice/tree/master/0451-sort-characters-by-frequency) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/debugwithprakash/DSA-Practice/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Simulation
 |  |
@@ -287,6 +290,7 @@ Implementation of core Data Structures and Algorithms with examples of arrays, s
 | [0344-reverse-string](https://github.com/debugwithprakash/DSA-Practice/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/debugwithprakash/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/debugwithprakash/DSA-Practice/tree/master/0443-string-compression) |
+| [0451-sort-characters-by-frequency](https://github.com/debugwithprakash/DSA-Practice/tree/master/0451-sort-characters-by-frequency) |
 | [0520-detect-capital](https://github.com/debugwithprakash/DSA-Practice/tree/master/0520-detect-capital) |
 | [0709-to-lower-case](https://github.com/debugwithprakash/DSA-Practice/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/debugwithprakash/DSA-Practice/tree/master/0796-rotate-string) |
@@ -403,6 +407,7 @@ Implementation of core Data Structures and Algorithms with examples of arrays, s
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/debugwithprakash/DSA-Practice/tree/master/0023-merge-k-sorted-lists) |
+| [0451-sort-characters-by-frequency](https://github.com/debugwithprakash/DSA-Practice/tree/master/0451-sort-characters-by-frequency) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -515,4 +520,8 @@ Implementation of core Data Structures and Algorithms with examples of arrays, s
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/debugwithprakash/DSA-Practice/tree/master/0796-rotate-string) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/debugwithprakash/DSA-Practice/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
