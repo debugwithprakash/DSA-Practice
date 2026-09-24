@@ -81,6 +81,7 @@ Implementation of core Data Structures and Algorithms with examples of arrays, s
 | ------- |
 | [0001-two-sum](https://github.com/debugwithprakash/DSA-Practice/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/debugwithprakash/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/debugwithprakash/DSA-Practice/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/debugwithprakash/DSA-Practice/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/debugwithprakash/DSA-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/debugwithprakash/DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
@@ -103,6 +104,7 @@ Implementation of core Data Structures and Algorithms with examples of arrays, s
 | [0002-add-two-numbers](https://github.com/debugwithprakash/DSA-Practice/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/debugwithprakash/DSA-Practice/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/debugwithprakash/DSA-Practice/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/debugwithprakash/DSA-Practice/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/debugwithprakash/DSA-Practice/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/debugwithprakash/DSA-Practice/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/debugwithprakash/DSA-Practice/tree/master/0069-sqrtx) |
@@ -278,6 +280,7 @@ Implementation of core Data Structures and Algorithms with examples of arrays, s
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/debugwithprakash/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/debugwithprakash/DSA-Practice/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/debugwithprakash/DSA-Practice/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/debugwithprakash/DSA-Practice/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/debugwithprakash/DSA-Practice/tree/master/0022-generate-parentheses) |
