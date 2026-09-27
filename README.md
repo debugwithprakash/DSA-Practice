@@ -100,6 +100,7 @@ Implementation of core Data Structures and Algorithms with examples of arrays, s
 | [0560-subarray-sum-equals-k](https://github.com/debugwithprakash/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/debugwithprakash/DSA-Practice/tree/master/0645-set-mismatch) |
 | [0992-subarrays-with-k-different-integers](https://github.com/debugwithprakash/DSA-Practice/tree/master/0992-subarrays-with-k-different-integers) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/debugwithprakash/DSA-Practice/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Math
 |  |
 | ------- |
@@ -271,6 +272,7 @@ Implementation of core Data Structures and Algorithms with examples of arrays, s
 | [0387-first-unique-character-in-a-string](https://github.com/debugwithprakash/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/debugwithprakash/DSA-Practice/tree/master/0451-sort-characters-by-frequency) |
 | [0992-subarrays-with-k-different-integers](https://github.com/debugwithprakash/DSA-Practice/tree/master/0992-subarrays-with-k-different-integers) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/debugwithprakash/DSA-Practice/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/debugwithprakash/DSA-Practice/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Simulation
 |  |
@@ -307,6 +309,7 @@ Implementation of core Data Structures and Algorithms with examples of arrays, s
 | [1021-remove-outermost-parentheses](https://github.com/debugwithprakash/DSA-Practice/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/debugwithprakash/DSA-Practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/debugwithprakash/DSA-Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/debugwithprakash/DSA-Practice/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/debugwithprakash/DSA-Practice/tree/master/1903-largest-odd-number-in-string) |
 ## Design
 |  |
