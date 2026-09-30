@@ -1,26 +1,21 @@
 class Solution {
     public String reverseWords(String s) {
         String ans = "";
-
         String revStr = new StringBuilder(s).reverse().toString();
 
-        int i = 0;
-        while(i < revStr.length()) {
+        for(int i = 0; i < revStr.length(); i++) {
+            // Find word
             String word = "";
-            while(i<revStr.length() && revStr.charAt(i)!=' ') {
+            while(i<revStr.length() && revStr.charAt(i) != ' ') {
                 word += revStr.charAt(i);
                 i++;
             }
-
+            // Reverse word
             String revWord = new StringBuilder(word).reverse().toString();
-
-            if(revWord.length()>0) {
-                ans += ' ' + revWord;
-            }
-
-            i++;
+            // Add reversed word in ans
+            if(word.length() > 0) ans += " " + revWord;
         }
 
-        return ans.trim();
+        return ans.substring(1);
     }
 }
