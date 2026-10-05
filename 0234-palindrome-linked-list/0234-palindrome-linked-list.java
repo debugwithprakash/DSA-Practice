@@ -9,35 +9,42 @@
  * }
  */
 class Solution {
+    public ListNode reverseLL(ListNode head) {
+        ListNode prev = null;
+        ListNode curr = head;
+        while(curr!=null) {
+            ListNode fwd = curr.next;
+            curr.next = prev;
+            prev = curr;
+            curr = fwd;
+        }
+        return prev;
+    }
+
     public boolean isPalindrome(ListNode head) {
+        // Find break point
         ListNode slow = head;
         ListNode fast = head;
         while(fast.next!=null && fast.next.next!=null) {
             slow = slow.next;
             fast = fast.next.next;
         }
-        ListNode temp1 = head;
-        ListNode temp2 = slow.next;
-        slow.next = null;
 
-        temp2 = reverse(temp2);
+        // Reverse second half
+        ListNode newHead = reverseLL(slow.next);
 
-        while(temp1!=null && temp2!=null) {
-            if(temp1.val!=temp2.val) return false;
-            temp1 = temp1.next;
-            temp2 = temp2.next;
+        // Compair both halfs
+        ListNode first = head;
+        ListNode second = newHead;
+        while(second!=null) {
+            if(first.val != second.val) {
+                reverseLL(newHead);
+                return false;
+            }
+            first = first.next;
+            second = second.next;
         }
+        reverseLL(newHead);
         return true;
-    }
-    public ListNode reverse(ListNode head) {
-        ListNode pre = null;
-        ListNode curr = head;
-        while(curr!=null) {
-            ListNode fwd = curr.next;
-            curr.next = pre;
-            pre = curr;
-            curr = fwd;
-        }
-        return pre;
     }
 }
