@@ -11,13 +11,6 @@
 class Solution {
     public ListNode removeNthFromEnd(ListNode head, int n) {
         if(head.next==null) return null;
-        if(head.next.next==null && n==1) {
-            head.next = null;
-            return head;
-        }
-        if(head.next.next==null && n==2) {
-            return head.next;
-        }
 
         ListNode slow = head;
         ListNode fast = head;
