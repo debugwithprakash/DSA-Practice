@@ -9,46 +9,52 @@
  * }
  */
 class Solution {
-    public ListNode sortList(ListNode head) {
-        if(head==null || head.next==null) return head;
+    public ListNode mergeLL(ListNode head, ListNode newHead) {
+        ListNode dummy = new ListNode(-1);
+        ListNode temp = dummy;
+        ListNode i = head;
+        ListNode j = newHead;
+        while(i!=null && j!=null) {
+            if(i.val < j.val) {
+                temp.next = i;
+                temp = i;
+                i = i.next;
+            } else {
+                temp.next = j;
+                temp = j;
+                j = j.next;
+            }
+        }
+        if(i!=null) {
+            temp.next = i;
+        }
+        if(j!=null) {
+            temp.next = j;
+        }
+        return dummy.next;
+    }
+    public ListNode breakLL(ListNode head) {
         ListNode slow = head;
         ListNode fast = head;
         while(fast.next!=null && fast.next.next!=null) {
             slow = slow.next;
             fast = fast.next.next;
         }
-        ListNode head2 = slow.next;
+        ListNode newHead = slow.next;
         slow.next = null;
-        
-        head = sortList(head);
-        head2 = sortList(head2);
-        
-        return merge(head, head2);
+        return newHead;
     }
-    public ListNode merge(ListNode head1, ListNode head2) {
-        ListNode dummy = new ListNode(-1);
-        ListNode temp = dummy;
-        ListNode i = head1, j = head2;
-        
-        while(i!=null && j!=null) {
-            if(i.val < j.val) {
-                temp.next = i;
-                i = i.next;
-                temp = temp.next;
-            }
-            else {
-                temp.next = j;
-                j = j.next;
-                temp = temp.next;
-            }
-        }
-        
-        if(i != null) {
-            temp.next = i;
-        }
-        else {
-            temp.next = j;
-        }
-        return dummy.next;
+    public ListNode sortList(ListNode head) {
+        if(head==null || head.next==null) return head;
+
+        // break into two parts
+        ListNode newHead = breakLL(head);
+
+        // apply recursion on both halfs
+        head = sortList(head);
+        newHead = sortList(newHead);
+
+        // merge LL
+        return mergeLL(head, newHead);
     }
 }
