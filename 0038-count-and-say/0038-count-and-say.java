@@ -4,22 +4,22 @@ class Solution {
 
         String returnedStr = countAndSay(n-1);
 
-        String newString = "";
+        StringBuilder sb = new StringBuilder();
         int i = 0;
         int j = 0;
         while(j<returnedStr.length()) {
             if(returnedStr.charAt(i)==returnedStr.charAt(j)) j++;
             else {
                 int size = j-i;
-                newString += size;
-                newString += returnedStr.charAt(i);
+                sb.append(size);
+                sb.append(returnedStr.charAt(i));
                 i = j;
             }
         }
         int size = j-i;
-        newString += size;
-        newString += returnedStr.charAt(i);
+        sb.append(size);
+        sb.append(returnedStr.charAt(i));
 
-        return newString;
+        return sb.toString();
     }
 }
