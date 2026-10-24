@@ -1,21 +1,25 @@
 class Solution {
     public String countAndSay(int n) {
-        if(n == 1) return "1"; // BaseCase
-        String s = countAndSay(n-1); // Call
-        // Work
-        String ans = "";
-        int i = 0, j = 0;
-        while(j < s.length()) {
-            if(s.charAt(i) == s.charAt(j)) j++;
+        if(n==1) return "1";
+
+        String returnedStr = countAndSay(n-1);
+
+        String newString = "";
+        int i = 0;
+        int j = 0;
+        while(j<returnedStr.length()) {
+            if(returnedStr.charAt(i)==returnedStr.charAt(j)) j++;
             else {
-                ans += j-i;
-                ans += s.charAt(i);
+                int size = j-i;
+                newString += size;
+                newString += returnedStr.charAt(i);
                 i = j;
             }
         }
-        ans += j-i;
-        ans += s.charAt(i);
+        int size = j-i;
+        newString += size;
+        newString += returnedStr.charAt(i);
 
-        return ans;
+        return newString;
     }
 }
