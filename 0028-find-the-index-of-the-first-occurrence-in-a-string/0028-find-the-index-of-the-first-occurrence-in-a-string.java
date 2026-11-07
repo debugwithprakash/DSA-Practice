@@ -1,23 +1,26 @@
 class Solution {
     public int strStr(String haystack, String needle) {
+        int i = 0, j = 0, k = 0;
         int n1 = haystack.length();
         int n2 = needle.length();
 
-        for(int i = 0; i <= n1-n2; i++) {
-            int j = 0;
-            while(j < n2) {
-                char c1 = haystack.charAt(i+j);
-                char c2 = needle.charAt(j);
+        if(n1 < n2) return -1;
 
-                if(c1 == c2) {
-                    j++;
-                } else {
-                    break;
-                }
+        while(i<n1 && j<n1) {
+            char ch1 = haystack.charAt(j);
+            char ch2 = needle.charAt(k);
 
-                if(j == needle.length()) return i;
+            if(ch1 == ch2) {
+                j++;
+                k++;
+                if(k == n2) return i;
+            } else {
+                j = i+1;
+                i = j;
+                k = 0;
             }
         }
+
         return -1;
     }
 }
