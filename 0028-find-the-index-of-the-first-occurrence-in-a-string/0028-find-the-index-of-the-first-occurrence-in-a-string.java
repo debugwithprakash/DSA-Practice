@@ -1,37 +1,42 @@
 class Solution {
     public int strStr(String haystack, String needle) {
-        int len1 = haystack.length();
-        int len2 = needle.length();
+        int m = haystack.length();
+        int n = needle.length();
 
-        if(len1 < len2) return -1;
+        if(m < n) return -1;
 
-        int[] arr = new int[len2];
-        int i = 0, j = 1;
-        while(j < len2) {
-            if(needle.charAt(i) == needle.charAt(j)) {
-                arr[j] = i+1;
-                j++;
+        // Make lps array
+        int[] lps = new int[n];
+        int len = 0;
+        int i = 1;
+        while(i < n) {
+            if(needle.charAt(len) == needle.charAt(i)) {
+                lps[i] = len+1;
                 i++;
+                len++;
             } else {
-                if(i == 0) {
-                    arr[j] = 0;
-                    j++;
+                if(len == 0) {
+                    i++;
                 } else {
-                    i = arr[i-1];
+                    len = lps[len-1];
                 }
             }
         }
 
+        // KMP algo
         i = 0;
-        j = 0;
-        while(i < len1) {
+        int j = 0;
+        while(i < m) {
             if(haystack.charAt(i) == needle.charAt(j)) {
                 i++;
                 j++;
-                if(j==len2) return (i-j);
+                if(j == n) return (i-j);
             } else {
-                if(j != 0) j = arr[j-1];
-                else i++;
+                if(j == 0) {
+                    i++;
+                } else {
+                    j = lps[j-1];
+                }
             }
         }
 
