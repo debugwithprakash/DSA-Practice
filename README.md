@@ -315,6 +315,7 @@ Implementation of core Data Structures and Algorithms with examples of arrays, s
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/debugwithprakash/DSA-Practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/debugwithprakash/DSA-Practice/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/debugwithprakash/DSA-Practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1392-longest-happy-prefix](https://github.com/debugwithprakash/DSA-Practice/tree/master/1392-longest-happy-prefix) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/debugwithprakash/DSA-Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/debugwithprakash/DSA-Practice/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/debugwithprakash/DSA-Practice/tree/master/1903-largest-odd-number-in-string) |
@@ -554,6 +555,7 @@ Implementation of core Data Structures and Algorithms with examples of arrays, s
 | [0214-shortest-palindrome](https://github.com/debugwithprakash/DSA-Practice/tree/master/0214-shortest-palindrome) |
 | [0686-repeated-string-match](https://github.com/debugwithprakash/DSA-Practice/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/debugwithprakash/DSA-Practice/tree/master/0796-rotate-string) |
+| [1392-longest-happy-prefix](https://github.com/debugwithprakash/DSA-Practice/tree/master/1392-longest-happy-prefix) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -569,12 +571,14 @@ Implementation of core Data Structures and Algorithms with examples of arrays, s
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/debugwithprakash/DSA-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/debugwithprakash/DSA-Practice/tree/master/0214-shortest-palindrome) |
 | [0686-repeated-string-match](https://github.com/debugwithprakash/DSA-Practice/tree/master/0686-repeated-string-match) |
+| [1392-longest-happy-prefix](https://github.com/debugwithprakash/DSA-Practice/tree/master/1392-longest-happy-prefix) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/debugwithprakash/DSA-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/debugwithprakash/DSA-Practice/tree/master/0214-shortest-palindrome) |
 | [0686-repeated-string-match](https://github.com/debugwithprakash/DSA-Practice/tree/master/0686-repeated-string-match) |
+| [1392-longest-happy-prefix](https://github.com/debugwithprakash/DSA-Practice/tree/master/1392-longest-happy-prefix) |
 ## Boyer–Moore String-Search Algorithm
 |  |
 | ------- |
@@ -584,8 +588,10 @@ Implementation of core Data Structures and Algorithms with examples of arrays, s
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/debugwithprakash/DSA-Practice/tree/master/0214-shortest-palindrome) |
+| [1392-longest-happy-prefix](https://github.com/debugwithprakash/DSA-Practice/tree/master/1392-longest-happy-prefix) |
 ## Hash Function
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/debugwithprakash/DSA-Practice/tree/master/0214-shortest-palindrome) |
+| [1392-longest-happy-prefix](https://github.com/debugwithprakash/DSA-Practice/tree/master/1392-longest-happy-prefix) |
 <!---LeetCode Topics End-->
